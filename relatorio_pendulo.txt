@@ -1,0 +1,47 @@
+==================================================
+Relatório - Medida de g com pêndulo simples
+==================================================
+Valor teórico de g: 9.78 m/s²
+Limite de erro para outlier: 10.00%
+Total de grupos válidos: 14
+Total de outliers: 13
+
+Resultados por grupo (válidos):
+--------------------------------------------------
+Grupo 2         g = 9.46 m/s²erro = 3.3% -> Bom
+Grupo 4         g = 9.56 m/s²erro = 2.2% -> Bom
+Grupo 6         g = 10.56 m/s²erro = 8.0% -> Revisar
+Grupo 7         g = 9.60 m/s²erro = 1.8% -> Excelente
+Grupo 8         g = 10.63 m/s²erro = 8.7% -> Revisar
+Grupo 9         g = 10.75 m/s²erro = 9.9% -> Revisar
+Grupo 13        g = 10.37 m/s²erro = 6.0% -> Revisar
+Grupo 15        g = 10.08 m/s²erro = 3.0% -> Bom
+Grupo 17        g = 9.10 m/s²erro = 7.0% -> Revisar
+Grupo 21        g = 10.02 m/s²erro = 2.5% -> Bom
+Grupo 22        g = 9.38 m/s²erro = 3.0% -> Bom
+Grupo 23        g = 10.38 m/s²erro = 6.1% -> Revisar
+Grupo 24        g = 10.12 m/s²erro = 3.5% -> Bom
+Grupo 29        g = 10.34 m/s²erro = 5.7% -> Revisar
+
+Grupos excluídos por outlier (erro > 10%):
+--------------------------------------------------
+Grupo 1         g = 11.16 m/s²erro = 11.1%
+Grupo 3         g = 10.85 m/s²erro = 10.9%
+Grupo 5         g = 35.84 m/s²erro = 266.5%
+Grupo 12        g = 11.59 m/s²erro = 18.5%
+Grupo 14        g = 11.16 m/s²erro = 14.1%
+Grupo 16        g = 12.07 m/s²erro = 23.4%
+Grupo 18        g = 10.95 m/s²erro = 12.0%
+Grupo 19        g = 11.83 m/s²erro = 13.5%
+Grupo 20        g = 7.00 m/s²erro = 28.4%
+Grupo 25        g = 7.35 m/s²erro = 24.0%
+Grupo 26        g = 7.35 m/s²erro = 24.8%
+Grupo 27        g = 8.77 m/s²erro = 10.3%
+Grupo 28        g = 6.47 m/s²erro = 33.8%
+
+Estatísticas gerais (apenas grupos válidos):
+--------------------------------------------------
+Média de g: 10.025 m/s²
+Desvio da média em relação ao valor teórico: +0.245 m/s²
+Grupo mais preciso: Grupo 7 (erro = 1.8%)
+==================================================
