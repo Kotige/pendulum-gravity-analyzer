@@ -2,40 +2,40 @@
 Report - Gravity measurement with simple pendulum
 ==================================================
 Theoretical reference value: 9.78 m/s²
-Outlier error threshold: 10%
+Outlier error threshold: 10.0%
 Total valid groups: 28
-Total excluded groups (outliers): 20
+Total excluded groups: (outliers): 20
 
 Results per group (valid):
 --------------------------------------------------
-G02        g = 9.46 m/s²error = 3.3% -> Good
-G04        g = 9.56 m/s²error = 2.2% -> Good
-G06        g = 10.56 m/s²error = 8.0% -> Needs review
-G07        g = 9.60 m/s²error = 1.8% -> Excellent
-G08        g = 10.63 m/s²error = 8.7% -> Needs review
-G09        g = 10.75 m/s²error = 9.9% -> Needs review
-G013       g = 10.37 m/s²error = 6.0% -> Needs review
-G015       g = 10.08 m/s²error = 3.0% -> Good
-G017       g = 9.10 m/s²error = 7.0% -> Needs review
-G021       g = 10.02 m/s²error = 2.5% -> Good
-G022       g = 9.38 m/s²error = 3.0% -> Good
-G023       g = 10.38 m/s²error = 6.1% -> Needs review
-G024       g = 10.12 m/s²error = 3.5% -> Good
-G029       g = 10.34 m/s²error = 5.7% -> Needs review
-G030       g = 9.94 m/s²error = 1.6% -> Excellent
-G31        g = 8.96 m/s²error = 8.3% -> Needs review
-G32        g = 10.70 m/s²error = 9.0% -> Needs review
-G33        g = 10.33 m/s²error = 5.6% -> Needs review
-G35        g = 10.75 m/s²error = 10.0% -> Needs review
-G36        g = 10.49 m/s²error = 7.3% -> Needs review
-G38        g = 10.01 m/s²error = 2.4% -> Good
-G39        g = 10.53 m/s²error = 7.7% -> Needs review
-G40        g = 8.82 m/s²error = 9.8% -> Needs review
-G41        g = 8.96 m/s²error = 8.5% -> Needs review
-G42        g = 9.46 m/s²error = 3.3% -> Good
-G43        g = 10.56 m/s²error = 8.0% -> Needs review
-G45        g = 9.45 m/s²error = 3.3% -> Good
-G48        g = 9.61 m/s²error = 0.2% -> Excellent
+G02        g = 9.46 m/s² error = 3.3% -> Good
+G04        g = 9.56 m/s² error = 2.2% -> Good
+G06        g = 10.56 m/s² error = 8.0% -> Needs review
+G07        g = 9.60 m/s² error = 1.8% -> Excellent
+G08        g = 10.63 m/s² error = 8.7% -> Needs review
+G09        g = 10.75 m/s² error = 9.9% -> Needs review
+G013       g = 10.37 m/s² error = 6.0% -> Needs review
+G015       g = 10.08 m/s² error = 3.0% -> Good
+G017       g = 9.10 m/s² error = 7.0% -> Needs review
+G021       g = 10.02 m/s² error = 2.5% -> Good
+G022       g = 9.38 m/s² error = 3.0% -> Good
+G023       g = 10.38 m/s² error = 6.1% -> Needs review
+G024       g = 10.12 m/s² error = 3.5% -> Good
+G029       g = 10.34 m/s² error = 5.7% -> Needs review
+G030       g = 9.94 m/s² error = 1.6% -> Excellent
+G31        g = 8.96 m/s² error = 8.3% -> Needs review
+G32        g = 10.70 m/s² error = 9.0% -> Needs review
+G33        g = 10.33 m/s² error = 5.6% -> Needs review
+G35        g = 10.75 m/s² error = 10.0% -> Needs review
+G36        g = 10.49 m/s² error = 7.3% -> Needs review
+G38        g = 10.01 m/s² error = 2.4% -> Good
+G39        g = 10.53 m/s² error = 7.7% -> Needs review
+G40        g = 8.82 m/s² error = 9.8% -> Needs review
+G41        g = 8.96 m/s² error = 8.5% -> Needs review
+G42        g = 9.46 m/s² error = 3.3% -> Good
+G43        g = 10.56 m/s² error = 8.0% -> Needs review
+G45        g = 9.45 m/s² error = 3.3% -> Good
+G48        g = 9.61 m/s² error = 0.2% -> Excellent
 
 Groups excluded as outliers (error > 10%):
 --------------------------------------------------
@@ -64,6 +64,6 @@ Overall statistics (valid groups only):
 --------------------------------------------------
 Mean measured g: 9.961 m/s²
 Deviation of the mean from the theoretical value: +0.181 m/s²
-Most precise group: G48 (error of 0.2%)
-Least precise group: G35 (error of 10.0%)
+Most precise grouop: G48 (error of 0.2%)
+Least precise grouop: G35 (error of 10.0%)
 ==================================================
